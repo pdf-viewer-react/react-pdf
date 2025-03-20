@@ -45,6 +45,15 @@
   --rp-dropdown-padding-menu-item: 8px;
   --rp-dropdown-font-size: calc(var(--rp-font-size) * 0.875);
   --rp-search-tool-dropdown-padding: 8px;
+  /* popover */
+  --rp-popover-background-color: #f1f2f4;
+  --rp-popover-padding: 4px;
+  --rp-popover-hover-background-color: #0000001a;
+  --rp-popover-separator-color: #e2e6e9;
+  --rp-popover-separator-margin: 4px;
+  --rp-popover-padding-menu-item: 8px;
+  --rp-popover-font-size: calc(var(--rp-font-size) * 0.875);
+  --rp-search-tool-popover-padding: 8px;
   /* dialog */
   --rp-overlay-background-color: #000000cc;
   --rp-dialog-background-color: #f1f2f4;
