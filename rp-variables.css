@@ -1,43 +1,44 @@
 .rp-theme-variables {
-  /* global */
+  /* Global */
   --rp-font-family: Inter, Avenir, Helvetica, Arial, sans-serif;
   --rp-primary-color: #34affc;
   --rp-border-radius: 4px;
   --rp-text-color: #1c2024;
-  --rp-outline-color: #34affc;
+  --rp-outline-color: var(--rp-primary-color);
   --rp-font-size: 16px;
-  /* dropdown mask */
+  /* Drop zone mask */
   --rp-drop-mask-background-color: #fafafa;
-  /* loader */
+  /* Loader */
   --rp-loader-backdrop-color: #ffffffcc;
-  /* icon */
+  /* Icon */
   --rp-icon-disabled: #c6ccd2;
   --rp-icon-font-size: calc(var(--rp-font-size) * 1.25);
-  /* toolbar */
+  /* Toolbar */
   --rp-toolbar-background: #e2e6e9;
   --rp-toolbar-border-color: #c6ccd2;
-  --rp-toolbar-padding: .25rem;;
+  --rp-toolbar-padding: 0.25rem;
   --rp-toolbar-gap: 0.25rem;
   --rp-toolbar-size: 48px;
-  /* sidebar */
+  /* Sidebar */
   --rp-sidebar-width: 48px;
-  /* thumbnail */
+  /* Thumbnail */
   --rp-thumbnail-border-color: #e2e6e9;
   --rp-thumbnail-background-color: #ffffff;
   --rp-thumbnail-active-color: #00000033;
   --rp-thumbnail-padding-y: 16px;
-  /* button */
+  /* Button */
   --rp-button-hover-background: #0000001a;
   --rp-button-padding: 4px;
-  /* input */
-  --rp-input-padding: 8px;
-  --rp-input-border-radius: 6px;
+  /* Input */
+  --rp-input-padding: 0.5rem;
+  --rp-input-border-radius: calc(var(--rp-border-radius) + 2px);
   --rp-input-background-color: #ffffff;
-  --rp-input-placeholder-color: #C6CCD2;
-  /* pages */
+  --rp-input-placeholder-color: #c6ccd2;
+  /* Pages */
   --rp-pages-background-color: #ffffff;
+  /* Annotations */
   --rp-annotation-layer__link-hover-background: rgba(255, 255, 0, 0.2);
-  /* dropdown */
+  /* Dropdown */
   --rp-dropdown-background-color: #f1f2f4;
   --rp-dropdown-padding: 4px;
   --rp-dropdown-hover-background-color: #0000001a;
@@ -45,13 +46,15 @@
   --rp-dropdown-separator-margin: 4px;
   --rp-dropdown-padding-menu-item: 8px;
   --rp-dropdown-font-size: calc(var(--rp-font-size) * 0.875);
+  --rp-dropdown-border-radius: calc(var(--rp-border-radius) + 2px);
   --rp-search-tool-dropdown-padding: 8px;
-  /* popover */
+  /* Popover */
   --rp-popover-font-size: calc(var(--rp-font-size) * 0.875);
   --rp-popover-background-color: #f1f2f4;
   --rp-popover-color: #1c2024;
-  --vpv-popover-border-color: #e2e6e9;
-  /* dialog */
+  --rp-popover-border-color: #e2e6e9;
+  --rp-popover-border-radius: calc(var(--rp-border-radius) + 2px);
+  /* Dialog */
   --rp-overlay-background-color: #000000cc;
   --rp-dialog-background-color: #f1f2f4;
   --rp-properties-divider-color: #e2e6e9;
@@ -65,7 +68,7 @@
   --rp-dialog-title-font-size: calc(var(--rp-font-size) * 1.125);
   --rp-dialog-title-font-weight: 600;
   --rp-menu-item-icon-size: 16px;
-  /* modal of print progress */
+  /* Print progress */
   --rp-print-progress-background: #f1f2f4ff;
   --rp-print-progress-color: #1c2024ff;
   /* Drop zone  */
@@ -73,13 +76,15 @@
   --rp-drop-zone-font-color: #8c99a6;
   --rp-drop-zone-font-size: calc(var(--rp-font-size) * 1.125);
   --rp-drop-zone-background-color: #fafafa;
-  /* checkbox */
-  --rp-checkbox-border-radius: 4px;
-  --rp-checkbox-border-color: #E2E6E9;
-  /* highlight */
+  /* Checkbox */
+  --rp-checkbox-border-radius: var(--rp-border-radius);
+  --rp-checkbox-border-color: #e2e6e9;
+  --rp-checkbox-indicator-color: white;
+  /* Highlight */
   --rp-highlight-background-color: rgba(255, 255, 0, 1);
-  --vpv-text-layer-highlight-border-radius: var(--rp-border-radius);
+  --rp-text-layer-highlight-border-radius: var(--rp-border-radius);
   --rp-current-highlight-background-color: rgba(255, 0, 0, 1);
-  /* tooltip */
-  --rp-tooltip-background-color: #1C2024;
+  /* Tooltip */
+  --rp-tooltip-background-color: #1c2024;
+  --rp-tooltip-border-radius: var(--rp-border-radius);
 }
