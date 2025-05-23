@@ -87,4 +87,8 @@
   /* Tooltip */
   --rp-tooltip-background-color: #1c2024;
   --rp-tooltip-border-radius: var(--rp-border-radius);
+  /* Container */
+  --rp-container-focus-outline-width: 0px;
+  --rp-container-focus-outline-color: var(--rp-primary-color);
+  --rp-container-focus-outline-offset: 2px;
 }
