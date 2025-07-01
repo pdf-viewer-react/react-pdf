@@ -90,6 +90,16 @@
   --rp-tooltip-font-color: #ffffff;
   --rp-tooltip-font-size: 14px;
   --rp-tooltip-padding: 8px 8px;
+  /* Password Modal */
+  --rp-password-background-color: #ffffff;
+  --rp-password-title-font-color: #1c2024;
+  --rp-password-content-font-color: #596673;
+  --rp-password-input-border-color: #e2e6e9;
+  --rp-password-input-placeholder-color: #c6ccd2;
+  --rp-password-input-font-color: #000000;
+  --rp-password-button-background-color: #34affc;
+  --rp-password-button-font-color: #ffffff;
+  --rp-password-button-border-color: #0995ee;
   /* Container */
   --rp-container-focus-outline-width: 0px;
   --rp-container-focus-outline-color: var(--rp-primary-color);
