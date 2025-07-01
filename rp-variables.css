@@ -86,7 +86,7 @@
   --rp-current-highlight-background-color: rgba(255, 0, 0, 1);
   /* Tooltip */
   --rp-tooltip-background-color: #1c2024;
-  --rp-tooltip-border-radius: 4px;
+  --rp-tooltip-border-radius: var(--rp-border-radius);
   --rp-tooltip-font-color: #ffffff;
   --rp-tooltip-font-size: 14px;
   --rp-tooltip-padding: 8px 8px;
