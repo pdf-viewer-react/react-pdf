@@ -9,7 +9,7 @@
 
 <br/>
 <div align="center">
-  Works seamlessly on your React.js websites. Fast, Customizable and Web Responsive PDF viewer. Save you weeks of development time.
+  Works seamlessly on your React or Next.js websites. Fast, Customizable and Web Responsive PDF viewer. Save you weeks of development time.
 </div>  
 <br/>
 
@@ -58,6 +58,7 @@ Here’s how to get started with React PDF in your React.js project:
 Here are the basic system requirements to run the React PDF component:
 
 - React version: >= 18.0
+- React version: >= 19.0
 
 If you are working with a React framework such as Next and Gatsby, React PDF can run smoothly as long as you are using React 18 and above.
 
