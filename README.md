@@ -111,7 +111,7 @@ yarn add @pdf-viewer/react
 pnpm add @pdf-viewer/react
 ```
 
-For more information on how to use different package managers, please visit our [installation guide](https://docs.react-pdf.dev/introduction/getting-started.html#installation?utm_source=github).
+For more information on how to use different package managers, please visit our [installation guide](https://docs.react-pdf.dev/introduction/getting-started/#installation?utm_source=github).
 
 ## 3. Import and Use the Component
 
@@ -174,6 +174,9 @@ Here are some sample projects to get started on React PDF quickly:
 4. [React (vite) - TypeScript](https://github.com/pdf-viewer-react/starter-rp-react-ts-vite)
 6. [Next - JavaScript](https://github.com/pdf-viewer-react/starter-rp-next-js)
 7. [Next - TypeScript](https://github.com/pdf-viewer-react/starter-rp-next-ts)
+8. [Next - TypeScript - Turborepo](https://github.com/pdf-viewer-react/starter-rp-next-ts-turborepo)
+9. [Remix - JavaScript](https://github.com/pdf-viewer-react/starter-rp-remix-js)
+10. [Remix - TypeScript](https://github.com/pdf-viewer-react/starter-rp-remix-ts)
 
 # :raising_hand: Need Help?
 
