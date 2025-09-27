@@ -178,6 +178,12 @@ Here are some sample projects to get started on React PDF quickly:
 9. [Remix - JavaScript](https://github.com/pdf-viewer-react/starter-rp-remix-js)
 10. [Remix - TypeScript](https://github.com/pdf-viewer-react/starter-rp-remix-ts)
 
+
+# 📝 Changelog
+
+Check out our latest release [v1.9.0 (26 September 2025)](https://docs.react-pdf.dev/introduction/changelog/#v190-26-september-2025)
+
+
 # :raising_hand: Need Help?
 
 We are more than happy to help you. If you have any questions, run into any errors or face any problems, please feel free to create an issue in [Issues](../../issues) or PM us directly in [Twitter][twitter]. Anything related to React PDF is on the table!
@@ -187,6 +193,7 @@ We are more than happy to help you. If you have any questions, run into any erro
 React PDF is distributed under our proprietary license. Please refer to our [License page](https://www.react-pdf.dev/license-agreement?utm_source=github) file for more details.
 
 If you would like to use React PDF commercially, please purchase a license from [our website][reactpdf] or reach out to us directly at [david@react-pdf.dev](mailto:david@react-pdf.dev).
+
 
 # Acknowledgement
 
