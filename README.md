@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://www.react-pdf.dev/" target="_blank">
+  <a href="https://www.react-pdf.dev/?utm_source=github&utm_medium=referral" target="_blank">
     <picture>
       <source srcset="./assets/img/react-pdf_cover.webp" width="100%">
       <img alt="React PDF" src="./assets/img/react-pdf_cover.webp width="100%">
@@ -47,7 +47,7 @@ As developers ourselves, we faced many issues such as browser incompatibility an
 - 📂 **Document Management Tools**, including features like downloading and printing.
 - 👁️ **Accessibility Support** to built-in support for ARIA attributes and tooltips, catering to diverse user bases.
 
-For the full feature set, visit [React PDF Features](https://www.react-pdf.dev/features?utm_source=github).
+For the full feature set, visit [React PDF Features](https://www.react-pdf.dev/features?utm_source=github&utm_medium=referral).
 
 # :zap: Quick Start Guide
 
@@ -111,7 +111,7 @@ yarn add @pdf-viewer/react
 pnpm add @pdf-viewer/react
 ```
 
-For more information on how to use different package managers, please visit our [installation guide](https://docs.react-pdf.dev/introduction/getting-started/#installation?utm_source=github).
+For more information on how to use different package managers, please visit our [installation guide](https://docs.react-pdf.dev/introduction/getting-started/#installation?utm_source=github&utm_medium=referral).
 
 ## 3. Import and Use the Component
 
@@ -129,7 +129,7 @@ The following structure demonstrates how to build a React PDF viewer by importin
   </RPConfig>
 ```
 
-_Remark: For more information on each component, please refer to [Component](https://docs.react-pdf.dev/components/overview?utm_source=github)._
+_Remark: For more information on each component, please refer to [Component](https://docs.react-pdf.dev/components/overview?utm_source=github&utm_medium=referral)._
 
 ### Basic Usage
 
@@ -154,7 +154,7 @@ const App = () => {
 export default App
 ```
 
-The PDF viewer will automatically adjust to fit its container's dimensions. You can control the size by setting the `style` prop on `RPDefaultLayout`. For more information on using React PDF, visit our [basic usage guide](https://docs.react-pdf.dev/introduction/basic-usage?utm_source=github)
+The PDF viewer will automatically adjust to fit its container's dimensions. You can control the size by setting the `style` prop on `RPDefaultLayout`. For more information on using React PDF, visit our [basic usage guide](https://docs.react-pdf.dev/introduction/basic-usage?utm_source=github&utm_medium=referral)
 
 You may also check out our [Starter Toolkit](#pushpin-starter-toolkit) for examples to get you started.
 
@@ -181,7 +181,7 @@ Here are some sample projects to get started on React PDF quickly:
 
 # 📝 Changelog
 
-Check out our latest release [v1.9.1 (3 October 2025)](https://docs.react-pdf.dev/introduction/changelog/#v191-3-october-2025)
+Check out our latest release [v1.9.1 (3 October 2025)](https://docs.react-pdf.dev/introduction/changelog/#v191-3-october-2025?utm_source=github&utm_medium=referral)
 
 
 # :raising_hand: Need Help?
@@ -190,7 +190,7 @@ We are more than happy to help you. If you have any questions, run into any erro
 
 # :page_facing_up: License
 
-React PDF is distributed under our proprietary license. Please refer to our [License page](https://www.react-pdf.dev/license-agreement?utm_source=github) file for more details.
+React PDF is distributed under our proprietary license. Please refer to our [License page](https://www.react-pdf.dev/license-agreement?utm_source=github&utm_medium=referral) file for more details.
 
 If you would like to use React PDF commercially, please purchase a license from [our website][reactpdf] or reach out to us directly at [david@react-pdf.dev](mailto:david@react-pdf.dev).
 
@@ -201,7 +201,7 @@ If you would like to use React PDF commercially, please purchase a license from 
 - [Img Shields](https://shields.io)
 - [React.js](https://reactjs.org/)
 
-[reactpdf]: https://www.react-pdf.dev
-[reactpdf-docs]: https://docs.react-pdf.dev
+[reactpdf]: https://www.react-pdf.dev/?utm_source=github&utm_medium=referral
+[reactpdf-docs]: https://docs.react-pdf.dev/?utm_source=github&utm_medium=referral
 [npm]: https://www.npmjs.com/package/@pdf-viewer/react
 [twitter]: https://www.x.com/ReactPDF
