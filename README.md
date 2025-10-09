@@ -168,15 +168,21 @@ For detailed usage, refer to our [Documentation][reactpdf-docs].
 
 Here are some sample projects to get started on React PDF quickly:
 
-1. [React (webpack) - JavaScript](https://github.com/pdf-viewer-react/starter-rp-react-js-webpack)
-2. [React (webpack) - TypeScript](https://github.com/reactpdf/pdf-viewer-react/starter-rp-react-ts-webpack)
-3. [React (vite) - JavaScript](https://github.com/pdf-viewer-react/starter-rp-react-js-vite)
-4. [React (vite) - TypeScript](https://github.com/pdf-viewer-react/starter-rp-react-ts-vite)
-6. [Next - JavaScript](https://github.com/pdf-viewer-react/starter-rp-next-js)
-7. [Next - TypeScript](https://github.com/pdf-viewer-react/starter-rp-next-ts)
-8. [Next - TypeScript - Turborepo](https://github.com/pdf-viewer-react/starter-rp-next-ts-turborepo)
-9. [Remix - JavaScript](https://github.com/pdf-viewer-react/starter-rp-remix-js)
-10. [Remix - TypeScript](https://github.com/pdf-viewer-react/starter-rp-remix-ts)
+1. [React (webpack) - JavaScript](https://github.com/react-pdf-dev/starter-rp-react-js-webpack)
+2. [React (webpack) - TypeScript](https://github.com/react-pdf-dev/starter-rp-react-ts-webpack)
+3. [React (vite) - JavaScript](https://github.com/react-pdf-dev/starter-rp-react-js-vite)
+4. [React (vite) - TypeScript](https://github.com/react-pdf-dev/starter-rp-react-ts-vite)
+6. [Next - JavaScript](https://github.com/react-pdf-dev/starter-rp-next-js)
+7. [Next - TypeScript](https://github.com/react-pdf-dev/starter-rp-next-ts)
+8. [Next - TypeScript - Turborepo](https://github.com/react-pdf-dev/starter-rp-next-ts-turborepo)
+9. [Remix - JavaScript](https://github.com/react-pdf-dev/starter-rp-remix-js)
+10. [Remix - TypeScript](https://github.com/react-pdf-dev/starter-rp-remix-ts)
+11. [Gatsby - JavaScript](https://github.com/react-pdf-dev/starter-rp-gatsby-js)
+12. [Gatsby - TypeScript](https://github.com/react-pdf-dev/starter-rp-gatsby-ts)
+13. [Docusaurus - JavaScript](https://github.com/react-pdf-dev/starter-rp-docusaurus-js)
+14. [Docusaurus - TypeScript](https://github.com/react-pdf-dev/starter-rp-docusaurus-ts)
+15. [Electron - JavaScript](https://github.com/react-pdf-dev/starter-rp-electron-js-vite)
+16. [Electron - TypeScript](https://github.com/react-pdf-dev/starter-rp-electron-ts-vite)
 
 
 # 📝 Changelog
